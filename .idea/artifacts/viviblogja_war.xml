@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="viviblogja:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="viviblogja.war">
+      <element id="artifact" artifact-name="viviblogja:war exploded" />
+    </root>
+  </artifact>
+</component>

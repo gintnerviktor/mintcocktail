@@ -1,0 +1,102 @@
+body{
+    font-family: 'Oswald', sans-serif;
+}
+
+.font_dancingscript{
+    font-family: 'Dancing Script', cursive;
+    text-shadow: -1px -1px 0px #000,1px 1px 0px #FFFFFF;
+}
+
+.menta{
+    color: rgba(47,205,157,0.87)!important;
+    font-size: 5em;
+    margin: 0 0 30px 0;
+}
+
+.navbar-nav>li>a {
+    color: rgba(47,205,157,0.87)!important;
+}
+
+.nav>li>a:focus, .nav>li>a:hover {
+    text-decoration: none;
+    background: inherit;
+    color: black!important;
+}
+
+.container-fluid{
+    border-bottom: 1px solid #eee;
+    background: #F9F9F9;
+}
+
+.mainmenudiv{
+    height: 55px;
+    border-top: 1px solid #eee;
+    border-bottom: 6px solid;
+    margin-bottom: 1px;
+    font-size: 1em;
+}
+
+.elvalaszto{
+    height: 5px;
+    border: 0;
+    margin-bottom: 20px;
+    background: #333;
+}
+
+.nav>li>a:hover {
+    background: rgba(47,205,157,0.87)!important;
+    color: #fff!important;
+}
+
+.main_menu{
+    margin-top: 5px;
+    width: 590px;
+}
+
+a{
+    color:#333;
+}
+
+.carousel-inner > .item > img, .carousel-inner > .item > a > img {
+    width: 100%;
+    margin: auto;
+}
+
+.bejegyzes{
+    margin-top: 10px;
+    margin-bottom: 50px;
+    background-color: #EEEEEE;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 1px solid #333;
+}
+
+.oldalsav{
+    background-color: #EEEEEE;
+    padding: 10px;
+}
+
+.keresesablogban{
+    margin-bottom: 10px;
+    border-bottom: 1px solid #ccc;
+}
+
+.btn-default {
+    color: #fff;
+    background: rgba(47,205,157,0.87)!important;
+    border-color: #ccc;
+}
+
+.badge{
+    background: rgba(47,205,157,0.87)!important;
+}
+
+.vastagkeret{
+    border: 2px solid #333;
+}
+
+.dropdown-menu>li>a:hover {
+    color: #fff;
+    text-decoration: none;
+    background: rgba(47,205,157,0.87)!important;
+}
